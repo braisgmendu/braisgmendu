@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Brais González Menduiña
 
-<!--
-**braisgmendu/braisgmendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Informática en la Universidad de Vigo, con experiencia en desarrollo web, programación y bases de datos. Apasionado por la tecnología, el aprendizaje continuo y la innovación.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**: Experiencia en proyectos académicos.
+- **Python**: Desarrollo web con Django.
+- **JavaScript**: Proyectos con React (universidad y personales).
+- **Bases de Datos (SQL)**: Proyectos académicos con Oracle.
+- **Git y GitHub**: Gestión de versiones y trabajo colaborativo.
+
+## 📜 Certificaciones
+
+- Introduction to Back-End Development (Meta)
+- Programming in Python (Meta)
+- Django Web Framework (Meta)
+- Cisco Certified Support Technician (CCST)
+- Fundamentos de la Inteligencia Artificial (IBM)
+- Microsoft Azure AI Fundamentals (AI-900T00-A)
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/brais-gonzález-menduiña-063758263)
+
+---
+¡Gracias por visitar mi perfil!
