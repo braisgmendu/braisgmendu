@@ -1,27 +1,54 @@
-# 👋 ¡Hola! Soy Brais González Menduiña
+# 👋 Hi! I'm Brais González Menduiña
 
-Estudiante de Ingeniería Informática en la Universidad de Vigo, con experiencia en desarrollo web, programación y bases de datos. Apasionado por la tecnología, el aprendizaje continuo y la innovación.
+Computer Engineer with an interest in backend development, cloud infrastructure, observability and distributed systems.
 
-## 🚀 Tecnologías y habilidades
+During my internship and Bachelor's Thesis, I worked on projects related to Data Spaces, developing backend services in Java, deploying cloud-native applications on Kubernetes and implementing an observability platform based on Grafana Loki.
 
-- **Java**: Experiencia en proyectos académicos.
-- **Python**: Desarrollo web con Django.
-- **JavaScript**: Proyectos con React (universidad y personales).
-- **Bases de Datos (SQL)**: Proyectos académicos con Oracle.
-- **Git y GitHub**: Gestión de versiones y trabajo colaborativo.
+I'm currently specializing in Cloud and DevOps while continuing to expand my knowledge of infrastructure, automation and platform engineering.
 
-## 📜 Certificaciones
+## 🚀 Interests
 
-- Introduction to Back-End Development (Meta)
-- Programming in Python (Meta)
-- Django Web Framework (Meta)
-- Cisco Certified Support Technician (CCST)
-- Fundamentos de la Inteligencia Artificial (IBM)
-- Microsoft Azure AI Fundamentals (AI-900T00-A)
+- Backend Development
+- Cloud Infrastructure
+- Platform Engineering
+- Observability
+- DevOps
+- Distributed Systems
 
-## 📫 Contacto
+## 🛠️ Technologies
 
-- [LinkedIn](https://www.linkedin.com/in/brais-gonzález-menduiña-063758263)
+**Languages**
+- Java
+- Python
+- Go
+
+**Cloud & Infrastructure**
+- Docker
+- Kubernetes
+- Helm
+- Terraform (Learning)
+
+**Observability**
+- Grafana Loki
+- Prometheus
+
+**Development**
+- PostgreSQL
+- Git
+- GitHub Actions
+- Linux
+
+## 🌱 Currently learning
+
+- Terraform
+- AWS
+- CI/CD
+- Platform Engineering
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/brais-gonzález-menduiña-063758263
 
 ---
-¡Gracias por visitar mi perfil!
+
+*"Always learning, always building."*
